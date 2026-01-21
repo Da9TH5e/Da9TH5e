@@ -1,24 +1,22 @@
-# Hi 👋, I'm Debarka Mandal
+<img width="1920" height="432" alt="From ideas to production-ready systems_1" src="https://github.com/user-attachments/assets/5a680e5d-f424-47fd-a377-488904ec23ec" />
 
-### Software Engineer building backend systems, automation pipelines, and applied AI using Python, Django, Docker, and LLM APIs.
+# 👀 Debarka Mandal
 
-<p align="left"> <a href="https://twitter.com/DebarkaMandal" target="blank"><img src="https://img.shields.io/twitter/follow/DebarkaMandal?logo=twitter&style=for-the-badge" alt="DebarkaMandal" /></a> </p>
+**`Software Engineer | Backend Systems | Automation | Applied AI`**
 
-- 🔭 I'm currently working on **Multi-agent developer tools and backend optimization pipelines**
+<p align="left">
+  <a href="https://leetcode.com/u/Debarka" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode"/></a>
+  <a href="https://twitter.com/DebarkaMandal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/debarkamandal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-- 🌱 I'm currently learning **JavaScript fundamentals, TypeScript, and Docker for type-safe and containerized workflows**
+I’m a backend-focused software engineer building reliable systems and developer tools with an emphasis on automation and applied AI. My work follows an end-to-end approach, from problem analysis and architecture design to production-ready implementation and iteration, with a focus on solving real-world problems.
+I’m currently working on **Pypilot**, a terminal-based AI assistant for coding and debugging across editors and operating systems, and maintaining **DSAFlowBot**. Alongside this, I’m learning **TypeScript** and exploring **React** to better understand type-safe client interfaces and frontend–backend integration.
 
-- 👯 I'm looking to collaborate on **Backend-focused open source projects and developer tooling**
-
-- 🤝 I'm looking for help with **Deepening understanding of system design and scalable architectures**
-
-- 💬 Ask me about **Backend development, API design, and production-ready project workflows**
-
-- 📫 How to reach me **debarkomandal@gmail.com**
-
-- ⚡ Fun fact **I enjoy building projects that are meant to run in production, not just demos**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1SbZDdd4H4PZu19O-bjDqIpBVD0tNsiaC/view?usp=sharing](https://drive.google.com/file/d/1SbZDdd4H4PZu19O-bjDqIpBVD0tNsiaC/view?usp=sharing)**
+Follow this link to check my resume https://drive.google.com/file/d/1SbZDdd4H4PZu19O-bjDqIpBVD0tNsiaC/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
