@@ -1,6 +1,6 @@
 <img width="1920" height="432" alt="From ideas to production-ready systems_1" src="https://github.com/user-attachments/assets/5a680e5d-f424-47fd-a377-488904ec23ec" />
 
-# 👀 Debarka Mandal
+# 😊 Debarka Mandal
 
 **`Software Engineer | Backend Systems | Automation | Applied AI`**
 
