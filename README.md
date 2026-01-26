@@ -24,7 +24,6 @@ Follow this link to check my resume https://drive.google.com/file/d/1SbZDdd4H4PZ
 <a href="https://linkedin.com/in/debarkamandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debarkamandal" height="30" width="40" /></a>
 <a href="https://instagram.com/debarka_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debarka_18" height="30" width="40" /></a>
 <a href="https://twitter.com/DebarkaMandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DebarkaMandal" height="30" width="40" /></a>
-<a href="https://leetcode.com/Debarka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Debarka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
