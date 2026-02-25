@@ -16,7 +16,7 @@
 I’m a backend-focused software engineer building reliable systems and developer tools with an emphasis on automation and applied AI. My work follows an end-to-end approach, from problem analysis and architecture design to production-ready implementation and iteration, with a focus on solving real-world problems.
 I’m currently working on **Pypilot**, a terminal-based AI assistant for coding and debugging across editors and operating systems, and maintaining **DSAFlowBot**. Alongside this, I’m learning **TypeScript** and exploring **React** to better understand type-safe client interfaces and frontend–backend integration.
 
-Follow this link to check my resume https://drive.google.com/file/d/1SbZDdd4H4PZu19O-bjDqIpBVD0tNsiaC/view?usp=sharing
+Follow this link to check my resume [Resume](https://drive.google.com/file/d/1IWlSHqcxjQN2wHXjIp4qDAG0GQkoRpmd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
