@@ -2,7 +2,7 @@
 
 # 😊 Debarka Mandal
 
-**`Software Engineer | Full Stack Developer | Automation | Applied AI`**
+**`Software Engineer | Full Stack Developer | Applied AI`**
 
 <p align="left">
   <a href="https://leetcode.com/u/Debarka" target="_blank">
